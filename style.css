@@ -147,3 +147,56 @@ h2 {
     color: #1F2937;
     font-weight: bold;
 }
+
+.fourth-section {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container {
+    background-color: #3882f6;
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    height: 50%;
+}
+
+.left {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h4 {
+    font-size: 24px;
+    color: white;
+    margin-left: 150px;
+}
+
+.last-p {
+    font-size: 16px;
+    color: white;
+    margin-left: 150px;
+}
+
+.right {
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-right {
+    border: 1px solid white;
+    background-color: #3882f6;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 5px;
+    height: 30px;
+    width: 90px;
+}
